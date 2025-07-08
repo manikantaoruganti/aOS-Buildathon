@@ -1,0 +1,20 @@
+{
+  "ado_type": "cw721",
+  "name": "OptiVaultNFT",
+  "version": "1.0.0",
+  "instantiate": {
+    "name": "OptiVaultAI Asset",
+    "symbol": "OVA",
+    "minter": "andromeda1admin...",
+    "metadata": {
+      "description": "Fractionalized asset token for RWA onboarding",
+      "value_usd": 100000,
+      "asset_type": "Real Estate"
+    }
+  },
+  "modules": [],
+  "permissions": {
+    "admin": "andromeda1admin...",
+    "operators": ["andromeda1ops..."]
+  }
+}
